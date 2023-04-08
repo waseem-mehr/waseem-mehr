@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Waseem Mehr.
+- 👋 Hi, I’m Waseem Mehr.I am a ReactJS and Django/Django Rest Framework developer with two years of experience. During my career, I have worked with various APIs such as Google Calendar API, Google FCM, and Apple GSX etc.
 - 👀 I’m interested to learn DevOps.
-- 🌱 I’m currently working as Fullstack developer (ReactJs/Django) .
+- 🌱 I’m currently working as Fullstack developer.
 - 💞️ I’m looking to collaborate on django projects.
 - 📫 Reach me through email wasiiimehr@gmail.com.
 
