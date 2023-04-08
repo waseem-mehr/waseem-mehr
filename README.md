@@ -1,4 +1,4 @@
-#ReactJS and Django/DRF Developer
+# ReactJS and Django/DRF Developer
 - 👋 Hi, I’m Waseem Mehr.I am a ReactJS and Django/Django Rest Framework developer with two years of experience. During my career, I have worked with various APIs such as Google Calendar API, Google FCM, and Apple GSX etc.
 - 👀 I’m interested to learn DevOps.
 - 🌱 I’m currently working as Fullstack developer.
